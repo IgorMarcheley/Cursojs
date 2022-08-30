@@ -1,0 +1,7 @@
+    alert('Minha Primeira Mensagem!')
+    confirm('Deseja somar números ?')
+    var v2= prompt('Digite um número')
+    var v1= prompt('Digite um número')
+    v1 = parseFloat(v1)
+    v2 = parseFloat(v2)
+    alert('Resultado='+(v1+v2))
